@@ -1,3 +1,12 @@
+Using React.js and various Material UI components,implemented a better way to form routes as well as Front-endtype
+
+Steps to use the following package: 1)You first need to install all the React npm packages,it can be done as follows: =>Using your terminal get to the file location,now type "npm i .",it will install all the packages which had been used to create this package. =>Now type "npm start",it will automatically create a server and will host this website at localhost:3000 or at some other port.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
